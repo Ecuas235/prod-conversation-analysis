@@ -13,6 +13,14 @@ This project delivers a professional Streamlit application to analyze debt colle
 - **Call Quality Metrics Analysis**  
   Calculates overtalk (simultaneous speaking) and silence percentages using utterance timestamps, with multiple interactive visualizations illustrating call dynamics.
 
+## Installation
+
+To install the required Python packages for this project, run:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 
 The app accepts **one YAML or JSON conversation file at a time**, with detailed utterances including speaker labels and timestamps.
