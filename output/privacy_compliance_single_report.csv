@@ -1,0 +1,2 @@
+call_id,violation,explanation,terms
+acec9db1-1209-4f98-881e-6d413e1aba2d,True,"Agent disclosed the account balance ($250) before completing proper identity verification. The agent only requested the customer’s full name, which is insufficient for verification under privacy guidelines. This constitutes a privacy violation.","balance, overdue balance, full name"

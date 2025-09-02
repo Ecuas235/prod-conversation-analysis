@@ -1,0 +1,16 @@
+call_id,utterance_number,speaker,text,has_profanity,profane_words
+b70866a2-2f46-4784-992b-74d6dc60806e,1,agent,"Hello, this is Mark from XYZ Collections. How are you today?",False,
+b70866a2-2f46-4784-992b-74d6dc60806e,2,customer,Yeah? What the hell do you want?,True,hell
+b70866a2-2f46-4784-992b-74d6dc60806e,3,agent,"I’m calling regarding your outstanding balance with ABC Credit. Before we proceed, can you please confirm your date of birth?",False,
+b70866a2-2f46-4784-992b-74d6dc60806e,4,customer,Why the f*** would I tell you anything? Screw you!,True,"f***, screw"
+b70866a2-2f46-4784-992b-74d6dc60806e,5,agent,"I understand this might be frustrating, but I need to verify your identity. Can you confirm your address?",False,
+b70866a2-2f46-4784-992b-74d6dc60806e,6,customer,Why don't you shove that up your ass? I’m not giving you anything!,True,ass
+b70866a2-2f46-4784-992b-74d6dc60806e,7,agent,"I assure you, I’m just trying to help you. I can’t provide account details without verification.",False,
+b70866a2-2f46-4784-992b-74d6dc60806e,8,customer,Help? You think this is help? You're just another annoying leech!,False,
+b70866a2-2f46-4784-992b-74d6dc60806e,9,agent,"I’m here to assist you, and I’d like to resolve this matter. Just a little information is needed.",False,
+b70866a2-2f46-4784-992b-74d6dc60806e,10,customer,"Oh, give me a break! You think I owe you something, right?",False,
+b70866a2-2f46-4784-992b-74d6dc60806e,11,agent,I can provide details once we verify your information. Can you confirm your zip code?,False,
+b70866a2-2f46-4784-992b-74d6dc60806e,12,customer,"You’re really pissing me off with this shit! Fine, it’s 12345!",True,"pissing, shit"
+b70866a2-2f46-4784-992b-74d6dc60806e,13,agent,Thank you for that. I see you have a balance of $500. How would you like to proceed?,False,
+b70866a2-2f46-4784-992b-74d6dc60806e,14,customer,I’m not paying a damn thing today!,True,damn
+b70866a2-2f46-4784-992b-74d6dc60806e,15,agent,I understand. Would you like to set up a payment plan instead?,False,
